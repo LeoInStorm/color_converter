@@ -5,8 +5,9 @@
 * O Aplicativo: Color Converter é simples e prático, nele você pode converter uma cor Hexadecimal para RGB, HSL ou HSV, você pode sempre converter as cores em qualquer uma dessas 4 opções disponiveis e o melhor, deixar salvo todas as cores que você ja adicionou!
   Além disso também é possivel apagar as cores que você não deseja mais manter.
 * Gostou? Para saber mais confira o vídeo abaixo que demonstra o app!
+  
+https://github.com/user-attachments/assets/ed8e2f10-83ae-4c94-baf0-1a9a3965512b
 
-https://github.com/user-attachments/assets/143e665b-fa33-46f3-9cfb-b9489340a659
 
 
 ## 🛠️ Construído com
