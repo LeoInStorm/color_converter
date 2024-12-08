@@ -1,16 +1,25 @@
-# color_converter
+# Color Converter
 
-A new Flutter project.
+* 1° aplicativo feito com a a linguagem Dart e o Framework Flutter.
+* Objetivo: Testar os conhecimentos em Packages, CRUD com o banco de dados SQL, widgets, stateful widget, controle de estados,navegação entre páginas e persistência de dados.
+* O Aplicativo: Color Converter é simples e prático, nele você pode converter uma cor Hexadecimal para RGB, HSL ou HSV, você pode sempre converter as cores em qualquer uma dessas 4 opções disponiveis e o melhor, deixar salvo todas as cores que você ja adicionou!
+  Além disso também é possivel apagar as cores que você não deseja mais manter.
+* Gostou? Para saber mais confira o vídeo abaixo que demonstra o app!
 
-## Getting Started
+https://github.com/user-attachments/assets/143e665b-fa33-46f3-9cfb-b9489340a659
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Construído com
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ferramentas:
+*![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+*![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📌 Versão
+
+* Versão funcional: 1.0
+
+## ✒️ Autores
+
+* **Leonardo Camporesi** - *Desenvolvedor da página* - [Leonardo Camporesi]([https://github.com/linkParaPerfil](https://github.com/LeoInStorm))
