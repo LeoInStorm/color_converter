@@ -13,8 +13,10 @@ https://github.com/user-attachments/assets/ed8e2f10-83ae-4c94-baf0-1a9a3965512b
 ## 🛠️ Construído com
 
 Ferramentas:
-*![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-*![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 ## 📌 Versão
